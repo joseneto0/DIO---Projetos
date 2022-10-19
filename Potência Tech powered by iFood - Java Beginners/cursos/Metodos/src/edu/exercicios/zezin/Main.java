@@ -20,5 +20,11 @@ public class Main {
         System.out.println("Empréstimo: ");
         Emprestimo.calcular(100, 3);
         Emprestimo.calcular(500, 2);
+
+        System.out.println("Sobrecarga: ");
+        Quadrilatero.area(10.0);
+        Quadrilatero.area(10.0, 5.0);
+        Quadrilatero.area(6.0, 4.0, 3.0);
+        Quadrilatero.area(6f, 7f);
     }
 }
