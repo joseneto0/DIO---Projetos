@@ -22,9 +22,9 @@ public class Main {
         Emprestimo.calcular(500, 2);
 
         System.out.println("Sobrecarga: ");
-        Quadrilatero.area(10.0);
-        Quadrilatero.area(10.0, 5.0);
-        Quadrilatero.area(6.0, 4.0, 3.0);
-        Quadrilatero.area(6f, 7f);
+        System.out.println("Área do Quadrado: " + Quadrilatero.area(10.0));
+        System.out.println("Área do Retângulo: " + Quadrilatero.area(10.0, 5.0));
+        System.out.println("Área do Trapézio: " + Quadrilatero.area(6.0, 4.0, 3.0));
+        System.out.println("Área do Losango: " + Quadrilatero.area(6f, 7f));
     }
 }
