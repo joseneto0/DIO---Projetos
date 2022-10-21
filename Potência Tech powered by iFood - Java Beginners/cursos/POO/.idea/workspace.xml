@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff7442c6-f371-41b4-9932-0daa76f6a352" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Sintaxe/Exemplos/Métodos/Métodos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sintaxe/Exemplos/Métodos/Sistema smart-tv/src/SmartTv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sintaxe/Exemplos/Métodos/Sistema smart-tv/src/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sintaxe/Exemplos/Operadores/Operadores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sintaxe/Exemplos/Operadores/Operadores/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sintaxe/Exemplos/Operadores/Operadores/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sintaxe/Exemplos/Scanner/Scanner.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sintaxe/Exemplos/Scanner/Scanner/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sintaxe/Exemplos/Scanner/Scanner/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sintaxe/Exemplos/Tipos Variáveis/Tipos Variáveis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sintaxe/Exemplos/Tipos Variáveis/exemplos-variaveis/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sintaxe/Exemplos/Tipos Variáveis/exemplos-variaveis/src/TiposVariaveis.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GQAZLyGU4pHv7lPlwzwryPY8wc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff7442c6-f371-41b4-9932-0daa76f6a352" name="Changes" comment="" />
+      <created>1666310492765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666310492765</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
